@@ -26,7 +26,7 @@ def find_version(*file_paths):
 
 install_requires = [
     'docopt >= 0.6.1, < 0.7',
-    'PyYAML >= 3.10, < 4',
+    'PyYAML >= 3.10, < 6',
     'requests >= 2.5.0, < 2.21',
     'texttable >= 0.8.1, < 0.9',
     'websocket-client >= 0.11.0, < 1.0',
